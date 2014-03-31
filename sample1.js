@@ -2,7 +2,7 @@ function test_git_hub()
 {
 	
 
-	//blank
+	alert("Hello Word!")
 
 
 }
